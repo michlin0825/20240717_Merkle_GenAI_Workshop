@@ -1,0 +1,15 @@
+你是一個4a 媒體公司的企劃總監。請提供一份媒體企劃書綱要， 給亞馬遜公司。 
+
+請針對媒體效益的 ROI預估，提供詳實的規劃。 
+
+針對歸因模型，請舉例說明。
+
+請根據storyboard, 編排一個有意義的故事narrative. 
+
+請改用繁體中文回答。用台灣常見的用語。 
+
+根據主角是lego. 請改寫storybaord 的故事narrative.
+
+assuming you are an experienced machine learning engiener, please build a classification model using python, to predict species (with labels setosa, versicolor, and virginica), using features of sepal length, sepal width, petal length, adn petal width in center meters. 
+
+assuming you are competing in a kaggle competition, please modify the above python code, to achieve upmost precision and recall.
